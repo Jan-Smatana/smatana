@@ -11,6 +11,6 @@
     "psr-4": {"smatana\\":"src/"}
   },
     "require": {
-        "acme/hello-world": "dev-master"
+        "Jan-Smatana/smatana": "master"
     }
 }
