@@ -1,7 +1,7 @@
 {
   "name":"Jan-Smatana/smatana",
-    "version":"1.0.0",
+    "version":"dev-master",
     "require": {
-        "Jan-Smatana/smatana": "master"
+        "Jan-Smatana/smatana": "dev-master"
     }
 }
