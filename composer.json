@@ -1,5 +1,6 @@
 {
   "name":"Jan-Smatana/smatana",
+    "version":"1.0.0",
     "require": {
         "Jan-Smatana/smatana": "master"
     }
