@@ -1,6 +1,6 @@
 {
   "name":"Jan-Smatana/smatana",
     "require": {
-        "Jan-Smatana/smatana": "dev-master"
+        "Jan-Smatana/smatana": "master"
     }
 }
