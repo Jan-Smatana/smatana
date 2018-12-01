@@ -1,16 +1,6 @@
 {
   "name":"Jan-Smatana/smatana",
-  "version":"1.0.0",
-  "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/Jan-Smatana/smatana"
-        }
-    ],
-  "autoload": {
-    "psr-4": {"smatana\\":"src/"}
-  },
     "require": {
-        "Jan-Smatana/smatana": "master"
+        "Jan-Smatana/smatana": "dev-master"
     }
 }
