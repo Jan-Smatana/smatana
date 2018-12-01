@@ -3,6 +3,6 @@
     "version":"dev-master",
     "require": {
         "Jan-Smatana/smatana": "dev-master",
-       "Jan-Smatana/smatana/monolog/monolog": "1.0.*"
+       "monolog/monolog": "1.0.*"
     }
 }
